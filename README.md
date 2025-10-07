@@ -97,8 +97,3 @@ payload = {
 Built by Vikrant using Streamlit + Ollama + LLaMA 3  
 Optimized for clarity, performance, and personalization.
 
-```
-
----
-
-Let me know if you want to add screenshots, badges, or GitHub Actions to automate testing or deployment.
