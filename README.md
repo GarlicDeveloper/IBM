@@ -1,6 +1,7 @@
 # 🏋️‍♂️ AI Fitness & Diet Planner for Students (Local LLM + Streamlit)
 
 This app generates personalized workout and diet plans for students using a locally hosted LLM via [Ollama](https://ollama.com/) and a Streamlit interface. It considers individual goals, cultural food habits, available equipment, and budget constraints.
+![App Screenshot](screenshot/diet.png)
 
 ---
 
